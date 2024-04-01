@@ -1,0 +1,1 @@
+# Simulation-of-Mechanics-Problems-in-Various-Variables-Using-ChatGPT-and-MATLAB-
